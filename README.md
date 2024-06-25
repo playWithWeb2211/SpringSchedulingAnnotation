@@ -6,3 +6,5 @@ create the repository on remote
    git branch -M main
 3. **Push the code**
    git push -u origin main
+
+Reading Schedule Annotation  : https://reflectoring.io/spring-scheduler/
